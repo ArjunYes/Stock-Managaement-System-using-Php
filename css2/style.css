@@ -1,0 +1,119 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(to right top, #4568dc, #6967d5, #8166cd, #9466c5, #a267bd, #a267bd, #a267bd, #a267bd, #9466c5, #8166cd, #6967d5, #4568dc);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
+
+#particle-js{
+	height: 100%;
+	
+}
+
+.container{
+	 width: 300px; 
+    height: 395px;
+    position: absolute;
+    margin-left: 510px;
+    margin-top: 160px;
+    border-radius: 10px;
+    background: rgba(245, 245, 220, 0.32);
+   
+}
+
+
+
+.in1{
+   	margin-top: 13px; 
+    outline: 0;
+    background: #f2f2f2;
+    font-family: 'Abel', sans-serif;
+    width: 270px;
+    border: 0;
+    padding: 15px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+
+.in2{
+    margin-top:8px; 
+    outline: 0;
+    background: #f2f2f2;
+    font-family: 'Abel', sans-serif;
+    width: 270px;
+    border: 0;
+    padding: 8px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 14px;
+
+
+}
+
+
+.btn {
+    background: #ff1919;
+    width: 270px;
+    border: 0;
+    font-family: 'Abel', sans-serif,bold;
+    font-size: 17px;
+    color: #FFFFFF;
+    margin-top: 13px;
+    padding: 13px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+
+.header{
+    position: absolute;
+    font-family: 'Abel', sans-serif;
+    color: white;
+    font-size: 35px;
+    padding-top: 50px;
+    margin-left: 570px;
+    font-weight: lighter;
+}
+
+
+.thumbnail{
+	margin-top: 20px;
+    background: #E5E8E8;
+    width: 150px;
+    height: 150px;
+    padding: 50px 30px;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    opacity: 0.9;
+    background-image: url("student.gif");
+    background-size: 150px 150px;
+}
+
+.Error_msg{
+    font-family: 'Abel', sans-serif,bold;
+    font-size: 15px;
+    color: red;
+
+}
+
+
+
